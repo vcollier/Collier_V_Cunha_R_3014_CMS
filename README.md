@@ -4,6 +4,9 @@
 
 This is a CMS site for Sportchek. You can add new products, edit products, and delete products. This makes for the easiest management of content possible.
 
+The live site:
+https://sport-chek.herokuapp.com/
+
 
 ## Installation
 
